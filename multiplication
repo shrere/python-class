@@ -1,0 +1,4 @@
+num1=input("pick a number to be multiplied")
+num2=input("pick the second number to be multiplied")
+
+print(int(num1)*int(num2))
